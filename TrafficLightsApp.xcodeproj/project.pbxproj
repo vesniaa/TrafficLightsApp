@@ -11,6 +11,8 @@
 		8CAEBCE6282E682900E56E1B /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAEBCE5282E682900E56E1B /* ContentView.swift */; };
 		8CAEBCE8282E682E00E56E1B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CAEBCE7282E682E00E56E1B /* Assets.xcassets */; };
 		8CAEBCEB282E682E00E56E1B /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8CAEBCEA282E682E00E56E1B /* Preview Assets.xcassets */; };
+		8CAEBCF2282E687700E56E1B /* ColorLights.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAEBCF1282E687700E56E1B /* ColorLights.swift */; };
+		8CAEBCF4282E698700E56E1B /* StartColorButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8CAEBCF3282E698700E56E1B /* StartColorButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		8CAEBCE5282E682900E56E1B /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		8CAEBCE7282E682E00E56E1B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8CAEBCEA282E682E00E56E1B /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		8CAEBCF1282E687700E56E1B /* ColorLights.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ColorLights.swift; sourceTree = "<group>"; };
+		8CAEBCF3282E698700E56E1B /* StartColorButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartColorButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,6 +56,8 @@
 			isa = PBXGroup;
 			children = (
 				8CAEBCE3282E682900E56E1B /* TrafficLightsAppApp.swift */,
+				8CAEBCF1282E687700E56E1B /* ColorLights.swift */,
+				8CAEBCF3282E698700E56E1B /* StartColorButton.swift */,
 				8CAEBCE5282E682900E56E1B /* ContentView.swift */,
 				8CAEBCE7282E682E00E56E1B /* Assets.xcassets */,
 				8CAEBCE9282E682E00E56E1B /* Preview Content */,
@@ -137,7 +143,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8CAEBCF2282E687700E56E1B /* ColorLights.swift in Sources */,
 				8CAEBCE6282E682900E56E1B /* ContentView.swift in Sources */,
+				8CAEBCF4282E698700E56E1B /* StartColorButton.swift in Sources */,
 				8CAEBCE4282E682900E56E1B /* TrafficLightsAppApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
