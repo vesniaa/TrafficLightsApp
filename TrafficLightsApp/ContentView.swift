@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+
 enum CurrentLight {
     case red, yellow, green
 }
