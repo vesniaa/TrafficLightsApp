@@ -1,4 +1,5 @@
 # TrafficLightsApp
+<img width="1849" alt="Снимок экрана 2022-05-15 в 20 32 31" src="https://user-images.githubusercontent.com/62894376/168481072-d7fc8a70-9a4c-4bef-804c-6ba1bfab964b.png">
 
 Создание проекта и первый взгляд
 Первый взгляд
